@@ -2,7 +2,9 @@
   "name": "hospital-client",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": ">=16.20.1 <17" },
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "start": "ng serve --host 0.0.0.0",
     "build": "ng build",
