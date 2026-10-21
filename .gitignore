@@ -1,0 +1,6 @@
+node_modules/
+client/.angular/
+client/dist/
+server/.env
+coverage/
+.DS_Store
